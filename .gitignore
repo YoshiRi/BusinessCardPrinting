@@ -1,0 +1,9 @@
+imgs/front*
+imgs/back*
+*.pdf
+*.dvi
+*.log
+*.aux
+*.synctex
+
+
